@@ -9,3 +9,4 @@ Final project for Udemy course
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
+This is a server for the front-end where users can login and submit an url of a face in which the API will detect.
