@@ -1,4 +1,4 @@
-# SmartBrain-api - v2
+# Magic Brain API
 Final project for Udemy course
 
 1. Clone this repo
